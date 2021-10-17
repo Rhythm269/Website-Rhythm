@@ -1,0 +1,21 @@
+h1{
+  text-align: center;
+  font-size: 80pt;
+  color: white;
+}
+ul{
+  font-size: 40pt;
+  list-style-type: square;
+  margin-left: 400pt;
+  color: white;
+}
+
+body{
+   background-image: url('https://cdn.pixabay.com/photo/2018/09/12/12/14/man-3672010_960_720.jpg');
+}
+
+.home{
+  border: 3pt solid white;
+  margin-left:500pt;
+  font-size: 20pt;
+}
